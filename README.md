@@ -9,9 +9,9 @@
 
 Laboratório educacional para simular um ataque de phishing em ambiente **controlado**, utilizando Kali Linux e a ferramenta SEToolkit. Projeto desenvolvido como parte de um desafio de cibersegurança da DIO.
 
-> ⚠️ **Aviso de Responsabilidade**  
-> Este projeto é estritamente para fins educacionais e de pesquisa em segurança.  
-> É proibido utilizar as técnicas demonstradas aqui contra sistemas, contas ou redes de terceiros sem autorização explícita e por escrito.  
+> ⚠️ **Aviso de Responsabilidade** 
+> Este projeto é estritamente para fins educacionais e de pesquisa em segurança. 
+> É proibido utilizar as técnicas demonstradas aqui contra sistemas, contas ou redes de terceiros sem autorização explícita e por escrito. 
 > O autor não se responsabiliza por qualquer uso indevido deste conteúdo.
 
 ## 🎯 Objetivo do Projeto
@@ -25,7 +25,7 @@ Laboratório educacional para simular um ataque de phishing em ambiente **contro
 - **Kali Linux** para geração da página de phishing
 - **SEToolkit (Social-Engineer Toolkit)** pré-instalado no Kali
 - **Git e GitHub** para versionamento e publicação da documentação
-- **Google Chrome** para simular o usuário alvo
+- **FireFox** em **private window** para simular o usuário alvo
 - **VirtualBox** para execução do Kali em máquina virtual
 
 ## 🧪 Cenário de Laboratório
